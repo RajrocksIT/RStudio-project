@@ -1,0 +1,11 @@
+---
+title: "practise"
+output: html_document
+---
+
+```{r}
+#genome = read.delim('igsr_samples.txt')
+#genome
+getwd()
+```
+
